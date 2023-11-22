@@ -1,0 +1,22 @@
+#circle {
+  background-color: white;
+  border-radius: 50%;
+  height: 50px;
+  left: 50px;
+  pointer-events: none;
+  position: fixed;
+  top: 50px;
+  width: 50px;
+}
+
+#circle-container {
+  background-color: black;
+  height: 100vh;
+  left: 0px;
+  mix-blend-mode: multiply;
+  overflow: hidden;
+  pointer-events: none;
+  position: fixed;
+  top: 0px;
+  width: 100vw;
+}
