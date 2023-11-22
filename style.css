@@ -1,8 +1,6 @@
 #circle {
   background-color: white;
   border-radius: 50%;
-  height: 50px;
-  left: 50px;
   pointer-events: none;
   position: fixed;
   top: 50px;
